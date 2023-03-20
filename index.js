@@ -1,3 +1,4 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log(_.last(["one", "two"]));
+/* eslint-disable no-console */
+console.log(_.last(['one', 'two']));
